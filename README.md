@@ -1,2 +1,2 @@
 # UniversalClock
-Quick individual project while learning about Java for the first time
+Quick project used to help learn Java. Done in 2013.
